@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
   name='show_graph_paths',
-  version='0.1.0',
+  version='0.1.1',
   packages=find_packages(where='show_graph_paths'),
   include_package_data=True,
   description='Extracts subgraph based on regex filters from nx DiGraphs',
