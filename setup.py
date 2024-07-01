@@ -15,7 +15,7 @@ setup(
   ],
   entry_points={
     'console_scripts': [
-      'show_graph_paths=show_grpah_paths.main:main',
+      'show_graph_paths=show_graph_paths.__main__:main',
     ],
   },
 )
